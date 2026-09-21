@@ -15,3 +15,5 @@ https://github.com/ErenKaymakci/Real-Time-QR-Detection-and-Decoding
 Github Repository von [ErenKaymakci](https://github.com/ErenKaymakci) aufgerufen am (21.9.2026)
 
 zuletzt aktualisirt am (22.11.2022)
+
+[License](https://github.com/ErenKaymakci/Real-Time-QR-Detection-and-Decoding/blob/main/LICENSE)
