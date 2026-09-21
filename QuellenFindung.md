@@ -1,11 +1,11 @@
-Youtube/Tiktok
+# Youtube/Tiktok
 
 -Visuelle erklärung
 
 -InfoBeschaffung
 
 
-Wikipedia
+# Wikipedia
 
 -fackten check
 
@@ -13,7 +13,7 @@ Wikipedia
 
 -abgleichung von infos
 
-GitHub
+# GitHub
 
 
 -Reposetorys
