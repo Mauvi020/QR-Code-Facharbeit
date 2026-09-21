@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="UTF-8">
+<title>QR-Code Generator</title>
+<style>
+body{font-family:Arial;text-align:center;background:#0f172a;color:white;padding:30px}
+textarea,button{width:100%;max-width:400px;padding:12px;margin:10px;border:0;border-radius:8px}
+textarea{height:100px;background:#334155;color:white}
+button{background:#3b82f6;color:white;font-weight:bold;cursor:pointer}
+#qr{margin:20px}
+</style>
+</head>
+
+<body>
+
+<h1>QR-Code Generator</h1>
+
+<textarea id="text" placeholder="Text oder URL"></textarea>
+<br>
+<button onclick="generate()">QR-Code erstellen</button>
+
+<div id="qr"></div>
+
+<script>
+function generate(){
+  let text=document.getElementById("text").value;
+  if(!text)return alert("Bitte etwas eingeben.");
+  document.getElementById("qr").innerHTML=
+    `<img src="https://api.qrserver.com/v1/create-qr-code/?size=300x300&data=${encodeURIComponent(text)}">`;
+}
+</script>
+
+</body>
+</html>
