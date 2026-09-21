@@ -11,4 +11,3 @@ Facharbeit über den QR Code
 
 [Quellen](quellen.md)
 
-_TEST
