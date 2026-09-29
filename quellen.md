@@ -19,3 +19,6 @@ zuletzt aktualisirt am (22.11.2022)  [License](https://github.com/ErenKaymakci/R
 [Dieses Bild](https://github.com/Mauvi020/QR-Code-Facharbeit/blob/82fe72b2871a73093a490a06910b2eb8cb19ce89/Screenshot%202026-09-23%20at%2017-51-50%20Why%20It%E2%80%99s%20Impossible%20to%20Ever%20Run%20Out%20of%20QR%20Codes%20(Even%20Theoretically)%20-%20YouTube.png) Stammt aus sekunde 2:26 aus diesem Youtube Video https://www.youtube.com/watch?v=rB8X45CLr2k&t=213s
 
 Aufgerufen am (23.9.26)
+
+https://www.youtube.com/watch?v=ZaEMqCWcM7A&t=32s
+Aufgerufen am (29.9.26)
