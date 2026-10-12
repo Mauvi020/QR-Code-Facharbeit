@@ -22,3 +22,14 @@ Aufgerufen am (23.9.26)
 
 https://www.youtube.com/watch?v=ZaEMqCWcM7A&t=32s
 Aufgerufen am (29.9.26)
+
+
+
+https://binarytranslate.com/de/binaer-alphabet/
+Aufgerufen (12.10.26)
+
+https://de.wikipedia.org/wiki/Bin%C3%A4rcode
+Aufgerufen (12.10.26)
+
+https://de.wikipedia.org/wiki/Strichcode
+Aufgerufen (12.10.26)
